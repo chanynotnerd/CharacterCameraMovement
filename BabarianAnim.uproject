@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{47BC2E3C-4D89-3AC2-774A-2B94FB8F06D8}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "BabarianAnim",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
